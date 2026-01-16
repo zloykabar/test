@@ -45,7 +45,7 @@
         .video-section {
             background: #000000;
             position: relative;
-            height: 40vh;
+            height: 20vh;
             min-height: 600px;
             display: flex;
             align-items: center;
