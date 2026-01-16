@@ -55,7 +55,7 @@
         
         .video-background {
             width: 100%;
-            height: 100%;
+            height: 50%;
             object-fit: cover;
             position: absolute;
             top: 0;
