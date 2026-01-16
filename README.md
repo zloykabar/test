@@ -55,7 +55,7 @@
         
         .video-background {
             width: 100%;
-            height: 50%;
+            height: 100%;
             object-fit: cover;
             position: absolute;
             top: 0;
@@ -178,7 +178,7 @@ margin: 0 auto;
         @media (max-width: 768px) {
             .video-section {
                 height: 70vh;
-                min-height: 400px;
+                min-height: 100px;
             }
             
             .logo-overlay {
