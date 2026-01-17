@@ -175,7 +175,7 @@ margin: 0 auto;
         @media (max-width: 768px) {
             .video-section {
                 height: 70vh;
-                min-height: 100px;
+                min-height: 400px;
             }
             
             .logo-overlay {
