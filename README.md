@@ -311,7 +311,7 @@ margin: 0 auto;
     <!-- Финальная секция -->
     <section class="content-section final-section">
         <div class="content-container">
-            <img src="https://cloud.mail.ru/public/ZuWe/ttCvkpWfa" alt="Финам" class="final-logo">
+            <img src="https://cloud.mail.ru/public/vceS/VGvAnY7Uh" alt="Финам" class="final-logo">
             <p class="final-text">
                 Удобный маркетплейс, венчурные новости и свежие идеи — ждут именно вас!
             </p>
