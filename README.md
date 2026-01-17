@@ -156,7 +156,7 @@
             color: #000000;
             max-width: 600px;
 
-> Temirkan:
+
 margin: 0 auto;
             line-height: 1.4;
         }
@@ -291,7 +291,7 @@ margin: 0 auto;
             
             <!-- Карточка 3: ИМПУЛЬС ЮАНЯ -->
 
-> Temirkan:
+
 <div class="card-container">
                 <div class="card-left">
                     <h2 class="card-title new-font accent-red">ИМПУЛЬС ЮАНЯ</h2>
