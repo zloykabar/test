@@ -311,7 +311,7 @@ margin: 0 auto;
     <!-- Финальная секция -->
     <section class="content-section final-section">
         <div class="content-container">
-            <img src="http://192.168.68.153/media/exported_qrcode_image.jpg" alt="Финам" class="final-logo">
+            <img src="http://192.168.68.153/media/exported_qrcode_image.png" alt="Финам" class="final-logo">
             <p class="final-text">
                 Удобный маркетплейс, венчурные новости и свежие идеи — ждут именно вас!
             </p>
