@@ -250,7 +250,7 @@ margin: 0 auto;
     <section class="content-section video-section">
         <div class="logo-overlay"></div>
         <video class="video-background" autoplay loop muted playsinline>
-            <source src="https://cdn-lpbr01.finam.ru/lpbr-static/novoe_video_eksklyuziv_3cdc8909a8.mp4" type="video/mp4">
+            <source src="http://192.168.68.153/media/novoe_video_eksklyuziv_new.mp4" type="video/mp4">
             Ваш браузер не поддерживает видео.
         </video>
     </section>
@@ -311,7 +311,7 @@ margin: 0 auto;
     <!-- Финальная секция -->
     <section class="content-section final-section">
         <div class="content-container">
-            <img src="https://cdn-lpbr01.finam.ru/lpbr-static/frame_2_8e71e09a66.svg" alt="Финам" class="final-logo">
+            <img src="http://192.168.68.153/media/exported_qrcode_image.jpg" alt="Финам" class="final-logo">
             <p class="final-text">
                 Удобный маркетплейс, венчурные новости и свежие идеи — ждут именно вас!
             </p>
