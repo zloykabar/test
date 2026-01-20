@@ -250,7 +250,7 @@ margin: 0 auto;
     <section class="content-section video-section">
         <div class="logo-overlay"></div>
         <video class="video-background" autoplay loop muted playsinline>
-            <source src="http://files.finam.ru/Handlers/Download.ashx/novoe_video_eksklyuziv.mov?action=download&file=Finam%20Asterisk%20Agent%2Fnovoe_video_eksklyuziv.mov&date=1768806180000" type="video/mp4">
+            <source src="http://files.finam.ru/Handlers/Download.ashx/novoe_video_eksklyuziv.mov" type="video/mp4">
             Ваш браузер не поддерживает видео.
         </video>
     </section>
