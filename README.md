@@ -250,7 +250,7 @@ margin: 0 auto;
     <section class="content-section video-section">
         <div class="logo-overlay"></div>
         <video class="video-background" autoplay loop muted playsinline>
-            <source src="file://MSW-WS00209/Users/tkarashaev/Documents/Новая%20папка/novoe_video_eksklyuziv.mov" type="video/mp4">
+            <source src="file://MSW-WS00209/Users/tkarashaev/Documents/Новая%20папка/novoe_video_eksklyuziv_new.mp4" type="video/mp4">
             Ваш браузер не поддерживает видео.
         </video>
     </section>
